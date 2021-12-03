@@ -8,11 +8,13 @@ Jaylen Ozi'nin githubundaki altyapıları editleyip sizlere veriyorum kolay gels
 
 # Hesaplarımız
 __Discord__
+
 [Passenger](https://discord.com/users/798257622033367070)
 
 [Jaylen-Ozi](https://discord.com/users/612688335944679600)
 
 __GİTHUB__
+
 [Passenger-Github](https://github.com/Passengerrr)
 
 [Jaylen-Ozi-Github](https://github.com/JaylenOzi)
