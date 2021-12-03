@@ -4,7 +4,7 @@ Jaylen Ozi'nin githubundaki altyapıları editleyip sizlere veriyorum kolay gels
 
 **Not: Bu altyapıyı düzenleyip paylaşmak için Jaylen'den izin aldım.**
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![image](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Hesaplarımız
 __Discord__
@@ -15,7 +15,7 @@ __GİTHUB__
 [Passenger-Github](https://github.com/Passengerrr)
 [Jaylen-Ozi-Github](https://github.com/JaylenOzi)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![image](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Altyapı Linkleri
 
